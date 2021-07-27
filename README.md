@@ -10,6 +10,7 @@ Utilizando:
 	Swagger API RESTful
 
 Acesso:
+https://dougapi.herokuapp.com/swagger-ui.html#/event-controller
 
 http://localhost:8081/swagger-ui.html
 
