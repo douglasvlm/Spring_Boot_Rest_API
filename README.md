@@ -20,6 +20,8 @@ http://localhost:8081/swagger-ui.html
 http://localhost:8081/h2
 
 Gradle /   Lombok   /   H2 Database  /   Hibernate   /   JPA   /  Swagger 
+	
+<img src="./Academic_Ann.jpg">
 </div>
 <hr/>
 <div align="center">
