@@ -12,7 +12,7 @@
     <i>Desenvolvimento de aplicações com Java</i>
 </div>
 <hr/>
-<code>
+
     Utilizando:
 	    Gradle
 	    Lombok
@@ -27,7 +27,7 @@ https://dougapi.herokuapp.com/swagger-ui.html#/event-controller
 http://localhost:8081/swagger-ui.html
 
 http://localhost:8081/h2
-</code>
+
 <hr/>
 <div align="center">
     <b>Repositório de referência:</b><br>
