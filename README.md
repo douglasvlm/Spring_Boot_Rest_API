@@ -21,7 +21,7 @@ http://localhost:8081/h2
 
 Gradle /   Lombok   /   H2 Database  /   Hibernate   /   JPA   /  Swagger 
 	
-<img src="./Academic_Ann.jpg">
+<img src="./Academic_Ann_.jpg">
 </div>
 <hr/>
 <div align="center">
